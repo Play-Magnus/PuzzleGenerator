@@ -1,0 +1,14 @@
+name = "PuzzleGenerator"
+uuid = "9aa46548-7909-4f6b-8d0c-96e8e07f51a4"
+authors = ["Tord Romstad <tord.romstad@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Chess = "717200cc-f167-4fd3-b4bf-b5e480529844"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
